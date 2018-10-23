@@ -1,4 +1,4 @@
-#Official blog environment from my personal blog
+**Official blog environment from my personal blog**
 
 *Note: This was made this with TailwindCSS & GatsbyJS*
 
