@@ -1,8 +1,8 @@
 {
   "name": "gatsby-starter-tailwind-seo-social",
   "version": "1.0.0",
-  "description": "Gatsby starter project styled with Tailwind and configured for social sharing and SEO.",
-  "author": "Kyle Galbraith",
+  "description": "blog made with GatsbyJS and TailwindCSS",
+  "author": "Daniel Uhlmann",
   "dependencies": {
     "babel": "^6.23.0",
     "gatsby": "next",

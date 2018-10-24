@@ -11,7 +11,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const { previous, next } = this.props.pageContext
-    const url = 'https://blog.kylegalbraith.com' + this.props.location.pathname;
+    const url = 'https://xfuture-blog.com' + this.props.location.pathname;
 
     return (
       <Layout>

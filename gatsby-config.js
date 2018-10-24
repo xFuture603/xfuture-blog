@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Your New Gatsby + Tailwind Blog",
-    author: "Your Name",
-    description: "Your Blog Description",
-    siteUrl: "https://blog.kylegalbraith.com"
+    title: "The official blog from Daniel Uhlmann",
+    author: "Daniel Uhlmann",
+    description: "I write about tech, developing and devops topics!",
+    siteUrl: "https://xfuture-blog.netlify.com/"
   },
   plugins: [
     'gatsby-plugin-sharp',

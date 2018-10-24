@@ -28611,3 +28611,7 @@ body {
     z-index: auto;
   }
 }
+
+.footer-twitter, .footer-github, .footer-imprint{
+  text-decoration: none;
+}

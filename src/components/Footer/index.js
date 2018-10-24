@@ -9,7 +9,9 @@ const Footer = () => (
           href={config.siteUrl}
           className="no-underline text-indigo-darkest hover:text-grey-darkest"
         >
-          This blog is made with love using <a href="https://www.gatsbyjs.org/">GatsbyJS</a>.
+          <a class="footer-twitter" href="https://twitter.com/xFuturecs">twitter</a>.
+          <a class="footer-github" href="https://github.com/xFuture603">github</a>.
+          <a class="footer-imprint" href="https://www.gatsbyjs.org/">imprint</a>.
         </a>
       </p>
     </div>
