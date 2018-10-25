@@ -1,5 +1,6 @@
 import React from "react";
 import config from "../../config/config";
+import Link from "gatsby-link";
 
 const Footer = () => (
   <div className="bg-grey-customized">
@@ -11,7 +12,7 @@ const Footer = () => (
         >
           <a class="footer-twitter" href="https://twitter.com/xFuturecs">twitter</a>.
           <a class="footer-github" href="https://github.com/xFuture603">github</a>.
-          <a class="footer-imprint" href="https://www.gatsbyjs.org/">imprint</a>.
+          <Link to="/imprint" style={{ textDecoration: "none"}}>imprint</Link>.
         </a>
       </p>
     </div>
