@@ -1,7 +1,7 @@
 module.exports = {
     siteTitle: "This is the official blog from Daniel Uhlmann",
     shortSiteTitle: "A blog about technology, development and my own thoughts",
-    siteDescription: "Welcome to the personal blog from me (Daniel Uhlmann). Here, I would like to exchange my own thoughts about technologies, or anything else related to computer science.",
+    siteDescription: "A blog about devops, webdevelopment and my insights as a system engineer.",
     siteUrl: "http://www.xfuture-blog.com/",
     pathPrefix: "",
     siteImage: "images/facebook-cover.jpg",
