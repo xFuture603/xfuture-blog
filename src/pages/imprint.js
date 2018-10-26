@@ -39,15 +39,6 @@ const Imprint = () => (
     </div>
     <br></br>
 
-    {/* SSL Verschlüsselung */}
-    <div>
-      <p><strong>SSL-Verschlüsselung</strong></p>
-      <p>SSL-Verschlüsselung
-      Diese Seite nutzt aus Gründen der Sicherheit und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel der Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-Verschlüsselung.<br></br>Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von "http://" auf "https://" wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
-      <br></br>Wenn die SSL Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.</p>
-    </div>
-    <br></br>
-
     {/* Cookies */}
     <div>
       <p><strong>Cookies</strong></p>

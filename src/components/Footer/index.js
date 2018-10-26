@@ -13,6 +13,7 @@ const Footer = () => (
           <a class="footer-twitter" href="https://twitter.com/xFuturecs">twitter</a>.
           <a class="footer-github" href="https://github.com/xFuture603">github</a>.
           <Link to="/imprint" style={{ textDecoration: "none"}}>imprint</Link>.
+          <Link to="/privacy" style={{ textDecoration: "none"}}>privacy</Link>.
         </a>
       </p>
     </div>
