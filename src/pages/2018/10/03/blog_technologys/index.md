@@ -2,6 +2,7 @@
 title: The technologies behind this blog
 date: "2018-10-30"
 cover: "./72347237423a324Afv.jpg"
+author: Daniel Uhlmann
 ---
 
 ##Hey fellows! Today I want to talk a bit about the technologies I used behind my blog!<br></br>
