@@ -6284,9 +6284,9 @@ table {
 
 body {
   /*background-image: url('../images/magnus-2050.png');*/
-  background: #382b5f; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to bottom right, #6d7993, #9099a2, #654eab); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom right, #6d7993, #9099a2, #654eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #efefef; /* fallback for old browsers */
+  /*background: -webkit-linear-gradient(to bottom right, #6d7993, #9099a2, #654eab); /* Chrome 10-25, Safari 5.1-6 */
+  /*background: linear-gradient(to bottom right, #6d7993, #9099a2, #654eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .w-customized {
