@@ -18,7 +18,19 @@ Back in the days this headline would have given me the first little panic attack
 ##What you can do as a junior to have a better start
 
 <p style = "line-height: 1.5;">
-<i>Ask questions early!</i> Don't wait until you are down the rabbit-hole before you start asking for some help. Part of not asking your questions when you really need to, through fear of appearing like an idiot to your colleagues, is how you end up building the wrong things and write bad code. Asking questions is one of the most important thing that you need to learn in your carreer.
 
-<i>Don't be afraid to say something in meetings, reviews etc.</i> This may sound like a normal thing to you. But have you never had the feeling that you wanted to say something, but you don't because you are afraid that it's wrong? Next time... go for it! The worst thing that can happen to you is that you are wrong. 
+#####<i>Ask questions early!</i> 
+Don't wait until you are down the rabbit-hole before you start asking for some help. Part of not asking your questions when you really need to, through fear of appearing like an idiot to your colleagues, is how you end up building the wrong things and write bad code. Asking questions is one of the most important thing that you need to learn in your carreer.
+
+#####<i>Don't be afraid to say something in meetings, reviews etc.</i> 
+This may sound like a normal thing to you. But have you never had the feeling that you wanted to say something, but you don't because you are afraid that it's wrong? Next time... go for it! The worst thing that can happen to you is that you are wrong. 
+
+#####<i>Document your code!</i> 
+That's right! Your code is not self-documenting. Good comments will help you to spot errors or help other fellows to understand your code snippets.
+
+#####<i>Seek constructive criticism.</i> 
+Praise is important to, don't get me wrong. But constructive criticism is also essential to help you to improve as a developer. The criticism can help you to identify your problems and to improve your code, documentation, behavior in some cases. A good way for this is a team meeting or even the comments in your merge requests.
+
+#####<i>Pair program with more experienced colleagues.</i>
+Pair programming or reviewing your code at all can be frustrating. They're most likely faster at writing code, faster at solving problems and faster at identifying the cause of bugs. It can be painful if you still working out all the shortcuts in your IDE while a more senior developer already fixed the problem. Sometimes it will feel more rewarding to solve problems on your own, but you may not learn as much.
 <br></br></p>
