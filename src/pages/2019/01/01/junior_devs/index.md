@@ -34,3 +34,8 @@ Praise is important to, don't get me wrong. But constructive criticism is also e
 #####<i>Pair program with more experienced colleagues.</i>
 Pair programming or reviewing your code at all can be frustrating. They're most likely faster at writing code, faster at solving problems and faster at identifying the cause of bugs. It can be painful if you still working out all the shortcuts in your IDE while a more senior developer already fixed the problem. Sometimes it will feel more rewarding to solve problems on your own, but you may not learn as much.
 <br></br></p>
+
+##Great idea for junior developers but how can I help them out as a more experienced developer?
+
+<p style = "line-height: 1.5;">
+Well this one depends a bit on your own personal favors in my opinion. Maybe you have a good time with your student while you explain him something with practical examples in your already written code, or you feel better if you explain him something oral. In any case keep one simple thing in mind: "Guide those who want want to be guided." <br></br></p>
