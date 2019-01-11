@@ -31,7 +31,7 @@ This may sound like a normal thing to you. But have you never had the feeling th
 
 #####<i>Document your code!</i>
 <p style = "line-height: 1.5;">
-That's right! Your code is not self-documenting. Good comments will help you to spot errors or help other fellows to understand your code snippets.
+That's right! Your code is not self-documenting. Good comments will help you to spot errors or help other colleagues to understand your code snippets.
 <br></br></p>
 
 #####<i>Seek constructive criticism.</i> 
@@ -61,7 +61,7 @@ To give you a short summary: Just tell your junior <b>how</b> to accomplish what
 
 #####<i>Make Room for Mistakes on both sides.</i>
 <p style = "line-height: 1.5;">
-To err is a human thing. You and your junior will eventually make mistakes so it is best to resolve the issue and communicate precisely that this is not a big deal.  
+To err is a human thing. You and your junior will eventually make mistakes so it is best to resolve the issue and communicate precisely that this is not a big deal. Mistakes are a crucial part of the learning process.
 <br></br></p>
 
 #####<i>Adapt the good practices from your team right from the start.</i>
@@ -76,5 +76,11 @@ Maybe because they're at the beginning of their "process" they probably spend mo
 
 #####<i>If you want a skilled colleague on your site - invest your time!</i>
 <p style = "line-height: 1.5;">
+Easy to say and hard to master. Often this is the point why your junior dev's start to build up things the wrong way or they spend too much valuable time finding the problems themselves either because they are too afraid to ask you or they are just to proud.
+<br></br></p>
 
+##Are these rules the 10 Commandments on "How to be a good teacher?"
+
+<p style = "line-height: 1.5;">
+Well, certainly not. These points are just some food for your thoughts. But if you take a few points to heart you can improve yourself as a teacher!  
 <br></br></p>
