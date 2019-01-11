@@ -1,7 +1,7 @@
 ---
 title: Develop your junior devs and helping them to grow.
 date: "2019-01-11"
-cover: "./237428937428934234.jpg"
+cover: "./234876237842346.jpg"
 author: Daniel Uhlmann
 ---
 
