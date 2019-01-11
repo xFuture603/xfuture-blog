@@ -1,6 +1,6 @@
 ---
 title: Develop your junior devs and helping them to grow.
-date: "2019-01-08"
+date: "2019-01-11"
 cover: "./237428937428934234.jpg"
 author: Daniel Uhlmann
 ---
@@ -51,5 +51,30 @@ Well this one depends a bit on your own personal favors in my opinion, at least 
 
 #####<i>Keep your willingness to reiterate and explain the same thing differently without getting annoyed.</i>
 <p style = "line-height: 1.5;">
-This is a serious thing. Like explaining something for 2 or 3 times and the opposite part won't catch up your thoughts? I bet you've felt that way before. And then you feel a bit annoyed or just dont know how to explain it to your student in any other way. And that's okay. But please don't rage on your junior and please don't call him dumb, or something similar to that.
+This is a serious thing. Like explaining something for 2 or 3 times and the opposite part won't catch up your thoughts? I bet you've felt that way before. And then you felt a bit annoyed or you just dont know how to explain it to your student in any other way. And that's okay. But please don't rage on your junior and please don't call him dumb, or something similar to that.
+<br></br></p>
+
+#####<i>Don't touch their keyboard!</i>
+<p style = "line-height: 1.5;">
+To give you a short summary: Just tell your junior <b>how</b> to accomplish what they are trying to do, but do not do it for them. 
+<br></br></p>
+
+#####<i>Make Room for Mistakes on both sides.</i>
+<p style = "line-height: 1.5;">
+To err is a human thing. You and your junior will eventually make mistakes so it is best to resolve the issue and communicate precisely that this is not a big deal.  
+<br></br></p>
+
+#####<i>Adapt the good practices from your team right from the start.</i>
+<p style = "line-height: 1.5;">
+I mean what's the point to practice your good practices in your core team without your new colleague? It's better to take extra time to teach them the right way. than to try and change their methods later on.
+<br></br></p>
+
+#####<i>Be open to keep learning from them.</i>
+<p style = "line-height: 1.5;">
+Maybe because they're at the beginning of their "process" they probably spend more time than you learning, and it's possible that they learn something that you didn't know. And even if you dont learn the newest tech-related things from your trainee you will learn a lot about your profession, about your junior as a person and about your teaching methods. So don't think of yourself as a complete developer because you can always learn something new. 
+<br></br></p>
+
+#####<i>If you want a skilled colleague on your site - invest your time!</i>
+<p style = "line-height: 1.5;">
+
 <br></br></p>
