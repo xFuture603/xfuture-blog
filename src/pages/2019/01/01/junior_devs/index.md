@@ -13,7 +13,7 @@ My idea behind this post is to perhaps give you a push to think about this topic
 ##You join a new team and get a bunch of code from your colleagues
 
 <p style = "line-height: 1.5;">
-Back in the days, this headline would have given me the first little panic attack. But now you are here... in front of your monitor and you read all the code and try to understand what's happening there. After some time you've spent with the code, you still got no clue. I guess this situation would look familiar to everyone who has been in this specific situation. And that's not wrong at all.<br></br></p>
+Back in the days, this headline would have given me the first panic attack. But now you are here... in front of your monitor and you read all the code and try to understand what's happening there. After some time you've spent with the code, you still got no clue. I guess this situation would look familiar to everyone who has been in this specific situation. And that's not wrong at all.<br></br></p>
 
 ##What you can do as a junior to have a better start
 
@@ -26,7 +26,7 @@ Don't wait until you are down the rabbit hole before you start asking for some h
 
 #####<i>Don't be afraid to say something in meetings, reviews etc.</i>
 <p style = "line-height: 1.5;">
-This may sound like a normal thing to you. But have you never had the feeling that you wanted to say something, but you don't because you are afraid that it's wrong? Next time... go for it! The worst thing that can happen to you is that you are wrong.
+This may sound like a normal thing to you. But have you never had the feeling that you wanted to say something, but you don't because you are afraid that you say something wrong? Next time... go for it! The worst thing that can happen to you is that you are wrong.
 <br></br></p>
 
 #####<i>Document your code!</i>
@@ -41,7 +41,7 @@ Praise is important too, don't get me wrong. But constructive criticism is also 
 
 #####<i>Pair program with more experienced colleagues.</i>
 <p style = "line-height: 1.5;">
-Pair programming or reviewing your code at all can be frustrating. They're most likely faster at writing code, faster at solving problems and faster at identifying the cause of bugs. It can be painful if you still working out all the shortcuts in your IDE while a more senior developer already fixed the problem. Sometimes it will feel more rewarding to solve problems on your own, but you may not learn as much.
+Pair programming or reviewing your code at all can be frustrating. They're most likely faster at writing code, faster at solving problems and faster at identifying the cause of bugs. It can be painful if you still working out all the shortcuts in your IDE while a more experienced developer already fixed the problem. Sometimes it will feel more rewarding to solve problems on your own, but you may not learn as much.
 <br></br></p>
 
 ##Great ideas for junior developers but how can I help them out as a more experienced developer?
@@ -66,7 +66,7 @@ To err is a human thing. You and your junior will eventually make mistakes so it
 
 #####<i>Adapt the good practices from your team right from the start.</i>
 <p style = "line-height: 1.5;">
-I mean what's the point to practice your good practices in your core team without your new colleague? It's better to take extra time to teach them the right way. then to try and change their methods later on.
+I mean what's the point to practice your good practices in your core team without your new colleague? It's better to take extra time to teach them the right way then to try and change their methods later on.
 <br></br></p>
 
 #####<i>Be open to keep learning from them.</i>
@@ -76,7 +76,7 @@ Maybe because they're at the beginning of their "process" they probably spend mo
 
 #####<i>If you want a skilled colleague on your site - invest your time!</i>
 <p style = "line-height: 1.5;">
-Easy to say and hard to master. Often this is the point why your junior dev's start to build up things the wrong way or they spend too much valuable time finding the problems themselves either because they are too afraid to ask you or they are just too proud.
+Easy to say and hard to master. Often this is the point why your junior dev's start to build up things the wrong way or they spend too much valuable time finding the problems themselves either because they are too afraid to ask you or they are just too proud. So make sure that you prioritize your student above your tasks and keep enough time for their questions.
 <br></br></p>
 
 ##Are these rules the 10 Commandments on "How to be a good teacher?"
