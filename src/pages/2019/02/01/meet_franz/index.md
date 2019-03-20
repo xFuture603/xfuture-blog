@@ -1,7 +1,7 @@
 ---
 title: Meet Franz. This guy will help you to organize your chat chaos.
 date: "2019-03-20"
-cover: "./234876237842346.jpg"
+cover: "./233243243123.jpg"
 author: Daniel Uhlmann
 ---
 
