@@ -21,9 +21,9 @@ Well, Franz is an open source application licensed under the Apache-2.0 License.
 Yes for sure. The following screenshots are only for you:<br></br></p>
 
 
-<img src="./Franz01.png" alt="Some well-known services.">
+<img src="./Franz01.jpg" alt="Some well-known services.">
 <br></br><br></br>
-<img src="./Franz02.png" alt="Service Pocket as one example tab.">
+<img src="./Franz02.jpg" alt="Service Pocket as one example tab.">
 <br></br>
 
 
