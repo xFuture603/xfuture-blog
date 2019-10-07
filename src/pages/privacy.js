@@ -1,6 +1,6 @@
 import React from "react";
 
-const Privacy = () => ( 
+const Privacy = () => (
   <body style={{ backgroundColor: "#44014C", color: "lightgrey" }}>
     <div class="Privacy">
       <h2 className="bg-indigo-lighter inline-block my-8 p-3">
@@ -89,8 +89,8 @@ const Privacy = () => (
       <br></br>
       <div style={{ marginLeft: "3.5em" }}>
       <p>xfuture-blog<br></br>
-      Comeniusstraße 58<br></br>
-      01309 Dresden<br></br>
+      Löbtauer Straße 33<br></br>
+      01159 Dresden<br></br>
       Deutschland<br></br>
       Tel.: 01636931680<br></br>
       E-Mail: daniel.xfuture@googlemail.com<br></br>
@@ -248,7 +248,7 @@ const Privacy = () => (
       </p><br></br><br></br>
       <p><strong>16. Twitter</strong></p><br></br>
       <p>Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter und der Funktion "Re-Tweet" werden die von Ihnen besuchten Websites mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter https://twitter.com/privacy.
-      Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter: https://twitter.com/account/settings ändern. 
+      Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter: https://twitter.com/account/settings ändern.
       </p><br></br><br></br>
       <div>
       <p><strong> 17. SSL-Verschlüsselung</strong></p>
