@@ -9,7 +9,7 @@ const Imprint = () => (
       Impressum<br></br>
     </h2>
     <p><strong>Impressum</strong></p>
-    <p>Anbieter:<br />Daniel Uhlmann<br />Comeniusstraße 58<br />01309 Dresden</p><br></br>
+    <p>Anbieter:<br />Daniel Uhlmann<br />Löbtauer Straße 33<br />01159 Dresden</p><br></br>
     <p>Contact:<br />Phone: 01636931680<br></br>E-Mail: daniel.xfuture@googlemail.com<br />Website: www.xfuture-blog.com</p>
     <p> </p>
   </div>
