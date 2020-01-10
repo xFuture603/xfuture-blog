@@ -2,6 +2,10 @@ const _ = require('lodash')
 const Promise = require('bluebird')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
+const sharp = require('sharp');
+
+sharp.cache(false);
+sharp.simd(false);
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
@@ -66,8 +70,3 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
-
-const sharp = require('sharp');
-
-sharp.cache(false);
-sharp.simd(false);
