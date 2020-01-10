@@ -5,7 +5,7 @@ cover: "./233243243123.jpg"
 author: Daniel Uhlmann
 ---
 
-Foreword: Before you invest your time to read this article (thanks in advance) I want to clarify that this is not an article related to those "x daily habits successful people have". Moreover this article is related to
+Foreword: Before you invest your time to read this article (thanks in advance) I want to clarify that this is not an article related to those "x daily habits successful people have". Moreover this article is related to thoughts and facts why it can have a positive impact for you to work / spend time with goal-oriented people.
 
 
 ##Why I come up with such a topic
@@ -28,5 +28,20 @@ They say that you are the average of the 5 people you spend the most time with. 
 
 ##I cannot yet gain any real benefit from this
 <p style = "line-height: 1.5;">
-Well if you still have no clue why this might be important for you don't worry. Goal-oriented People have certain approaches to different tasks from which you can benefit greatly.
+Well if you still have no clue why this might be important for you don't worry. Goal-oriented People have certain approaches to different tasks from which you can benefit greatly. Of course it is often a subjective opinion which person you consider to be goal-oriented. But if you think about it and take goal-oriented person from your circle I'm sure you'll aggree with some of the points I'm about to share.
+
+1. They fix things that waste time<br></br>
+When you think of computer science, you will notice that people who are effective in their work never do the same task manually over and over. These people will always have a kind of automation for such constant and reccuring tasks.<br></br>
+
+2. They often start a task without fear that they might have to start all over again<br></br>
+Like, seriously...How often have you doubted whether your solution would even get you to your goal? These kinds of thoughts often keep us from even starting with the implementation. In order to solve a problem step by step it often helped me to look at the working methods or solution approaches of people who work goal-driven.<br></br>
+
+3. They pay attention to details<br></br>
+This may sounds simple for you by now but think for example about the network architecture of a larger project. Take the Gliffy diagrams of your network architecture and while you are working on a customer ticket try to think of everything that might be broken by your change or what you might need to change in the current architecture to get to the final result. Now and then you will get to the point where you don't know what to do and then ask a more experienced colleague in this topic for help. Often these people can help you out with your problems. And they can do this because they have more experience but also possibly look at the problem from a completely different angle. The more time you spend with these people the more you understand their approaches and thought processes.<br></br>
+
+4. They always look around for solution<br></br>
+Imagine a meeting with a retrospective of the last week as the topic. Sometimes (myself included) you often fall into an emotionally driven discussion without any real solution attempt. If you have ever been in a situation like this you will have noticed that there are always 1-2 people who skip this point and come right around the corner with a quick solution.<br></br>
+
+5. They give importance to feedback<br></br>
+This is one of the most important points for me personally because I have been able to learn a lot from this quality. These people maintain an active feedback culture in a number of ways. It can be a comment on your recently opened pull request or some feedback during a meeting.
 <br></br></p>
