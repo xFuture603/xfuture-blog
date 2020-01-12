@@ -16,7 +16,6 @@ My idea behind this post is to perhaps give you a push to think about this topic
 Back in the days, this headline would have given me the first panic attack. But now you are here... in front of your monitor and you read all the code and try to understand what's happening there. After some time you've spent with the code, you still got no clue. I guess this situation would look familiar to everyone who has been in this specific situation. And that's not wrong at all.<br></br></p>
 
 ##What you can do as a junior to have a better start
-
 <p style = "line-height: 1.5;">
 
 #####<i>Ask questions early!</i>
