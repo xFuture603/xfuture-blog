@@ -4,8 +4,8 @@ const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 const sharp = require('sharp');
 
-sharp.cache(false);
-sharp.simd(false);
+sharp.cache(true);
+sharp.simd(true);
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
