@@ -1,6 +1,6 @@
 ---
 title: Why it is important to stick with goal-oriented people
-date: "2020-01-10"
+date: "2020-01-12"
 cover: "./345582364213123.jpg"
 author: Daniel Uhlmann
 ---
