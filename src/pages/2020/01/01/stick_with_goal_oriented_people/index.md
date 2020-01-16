@@ -17,7 +17,7 @@ Not so long ago I've read an article about people who radically cleaned their su
 ##"You are only as successful as those you frequently associate with."
 
 <p style = "line-height: 1.5;">
-So successful people are always on the hunt for individuals who are goal-oriented, enthusiastic, optimistic and who have an overall positive mental outlook. So that means that some people made a habit out of associating with other success-minded individuals. And on the flip side, they also make a point to limit their exposure to negative and toxic people. So for successful people, it's important to kinda replace negative friends and search out for positive individuals because they are very positive on their own and they want to get the same thing back for themselves. So as a result, most successful people made a habit out of associating with other success-minded individuals and on the flip side, they also make a point to limit their exposure to negative and toxic people.
+So successful people are always on the hunt for individuals who are goal-oriented, enthusiastic, optimistic and who have an overall positive mental outlook. So that means that some people made a habit out of associating with other success-minded individuals. And on the flip side, they also make a point to limit their exposure to negative and toxic people. So for successful people, it's important to kinda replace negative friends and search out for positive individuals because they are very positive on their own and they want to get the same thing back for themselves.
 <br></br></p>
 
 ##So we emulate the people we associate with?
