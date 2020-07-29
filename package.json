@@ -43,6 +43,6 @@
   "devDependencies": {
     "@babel/core": "7.10.5",
     "@babel/preset-env": "7.10.4",
-    "tailwindcss": "1.5.2"
+    "tailwindcss": "1.6.0"
   }
 }
