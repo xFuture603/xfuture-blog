@@ -1,7 +1,7 @@
 ---
 title: Why many programmers lose hope in their work from time to time
-date: "2020-09-26"
-cover: "./233243243123.jpg"
+date: "2020-10-01"
+cover: "./40955371920.jpg"
 author: Daniel Uhlmann
 ---
 
