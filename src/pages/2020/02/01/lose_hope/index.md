@@ -13,7 +13,7 @@ Have you ever had a conversation with a colleague where he got upset about the c
 ##I think there are other factors that can affect this
 
 <p style = "line-height: 1.5;">
-In the next few lines I want to take a look at some factors.
+In the next few lines I want to take a look at some possible factors. Of course, one of the better known problems is the huge stack of tasks that never seems to shrink. But besides this problem, which is probably a general problem in office jobs, there are also problems that seem more IT specific to me. For example, take a look at developers fighting with their managers, because they plan milestones for a project far away from any realistic time estimation. Or look at how often sustainable work is not possible, because you have to rush for best practices to reach the original deadlines.
 <br></br></p>
 
 ##C
