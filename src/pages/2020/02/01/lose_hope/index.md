@@ -20,7 +20,7 @@ In the next few lines I want to take a look at some possible factors. Of course,
 
 <p style = "line-height: 1.5;">
 Well first things first: Say no, politely.
-That means that you have to be firm and nice in refusing to compromise the quality of your work, but in a way that help others see you care about it.
+That means that you have to be firm and nice in refusing to compromise the quality of your work, but in a way that help others see you care about it. If you look at it that way you can show ways how the time saved by bad code will cause problems later in production and then you will need more time in the end because you have to fix technical debts. Another thing you should do is to ask for help earlier no matter what your job title is. I mean what happens if you get lost in a problem? You are frustrated because you can't find the solution by yourself. However, it is absolutely no shame to ask for help if you get stuck. The third thing I want to mention is that you need to develop empathy for other developers and how they approach their work. By this I do not mean that it is not okay to discuss about different things or also to express your own opinion about topics but you have to get away from the thought that people have to think, work and act like you do. Treat people like individuals and they will do the same with you. The last point I want to address is one of the most important points for me personally. Surround yourself with positive devs.
 <br></br></p>
 
 ##L
