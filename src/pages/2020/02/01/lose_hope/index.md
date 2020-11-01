@@ -28,5 +28,3 @@ That means that you have to be firm and nice in refusing to compromise the quali
 <p style = "line-height: 1.5;">
 If you recognize yourself in the lines above and you feel like you are trapped in a rabbit hole then think for your own and ask yourself what of the above you can do for you to get out of this specific hole. As written above it is absolutely no shame to ask for help if you get stuck. Stay healthy during these quarantine days and rock on.
 <br></br></p>
-
-##S
