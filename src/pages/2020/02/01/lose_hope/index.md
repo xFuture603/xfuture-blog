@@ -8,7 +8,7 @@ author: Daniel Uhlmann
 ##Have you ever wondered why a colleague of yours is annoyed or burnt out?
 
 <p style = "line-height: 1.5;">
-Have you ever had a conversation with a colleague where he got upset about the current situation in the project? Or do you even know colleagues who seem completely burnt out and therefore often only see negative things in the current situation? Well, anyone can behave like this once in a while. But why is that the case? Does this behavior only come from stress and huge loads of tasks, or are there other factors that can lead to such a behavior? <br></br></p>
+Have you ever had a conversation with a colleague where he got upset about the current situation in his/her project? Or do you even know colleagues who seem completely burnt out and therefore often only see negative things in the current situation? Well, anyone can behave like this once in a while. But why is that the case? Does this behavior only come from stress and huge loads of tasks, or are there other factors that can lead to such a behavior? <br></br></p>
 
 ##I think there are other factors that can affect this
 
