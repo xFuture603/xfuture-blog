@@ -1,5 +1,5 @@
 ---
-title: Why many programmers lose hope in their work from time to time
+title: Why so many programmers lose hope in their work from time to time
 date: "2020-11-01"
 cover: "./40955371920.jpg"
 author: Daniel Uhlmann
