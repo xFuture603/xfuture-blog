@@ -41,8 +41,8 @@
     "develop": "npm run build:css && gatsby develop"
   },
   "devDependencies": {
-    "@babel/core": "7.12.10",
-    "@babel/preset-env": "7.12.11",
+    "@babel/core": "7.12.13",
+    "@babel/preset-env": "7.12.13",
     "tailwindcss": "2.0.2"
   }
 }
