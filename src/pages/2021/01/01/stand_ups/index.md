@@ -12,14 +12,18 @@ So lately I thought about stand-up's and what bothers me about them. I found a f
 <p style = "line-height: 1.5;">
 The most common way to run the stand-up is the "yesterday - today - blockers" modell. So in other words: what did I do yesterday. What will I do today. Is there possibly something that blocks my progress with the work I have to finish. Individually, this doesn't look so bad at first glance. But stand-up's are team events for me. To give you a better understanding of what I am trying to describe here, compare the "yesterday - today - blockers" modell with the example below.
 
-Example: you are in a workshop or business meeting where everyone in the group introduces themselves. Before you have to introduce yourself and tell something about who you are do you listen to the others or are you just working out your story in your head that you want to tell soon? And after it was your turn aren't you relieved and maybe only then listen to what the others say after you?
+Example: You are in a workshop or business meeting where everyone in the group introduces themselves. Before you have to introduce yourself and tell something about who you are do you listen to the others or are you just working out your story in your head that you want to tell soon? And after it was your turn aren't you relieved and maybe only then listen to what the others say after you?
 
 I think the same thing happens in a lot of stand-ups. Everyone wants to tell a good story and make a good impression. This distracts you and you don't listen to others even if it might be important.
 <br></br></p>
 
 ##Sounds logical but is there another way?
 <p style = "line-height: 1.5;">
+Definitely, there are other ways to execute a stand-up. The easiest way would be to simply talk about tickets. But this assumes that you have a certain structure, like a Kanban board, and that there is a ticket for each task. But assuming your team fulfills these requirements. For example, it could look like this:
 
+You start the session with ticket xyz. Person A has this ticket in progress or knows something about it. He reports and everyone can listen because no one should be busy thinking about a story in their heads. We continue with the next ticket. Person B knows about it and brings the team up to date. This process is repeated until all the important tickets are off the table. This procedure is called "Walking the board" and it takes the focus away from the individual and puts it where it should be: on the work.
+
+Keep in mind that this is not a general solution and may not work as well for some teams as it does for others, because they may be working in a different field of IT, have customer contact or need to resolve incidents et cetera. When writing the example, I was primarily thinking of a software development team. Even if this does not apply to everyone, it could still be an approach to try something new.
 <br></br></p>
 
 
