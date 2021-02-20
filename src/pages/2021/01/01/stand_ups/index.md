@@ -1,7 +1,7 @@
 ---
 title: The problem I have with stand-ups
 date: "2021-02-20"
-cover: "./345582364213123.jpg"
+cover: "./98739234211542.jpg"
 author: Daniel Uhlmann
 ---
 
