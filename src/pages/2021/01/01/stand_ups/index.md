@@ -30,7 +30,7 @@ Keep in mind that this is not a general solution and may not work as well for so
 <p style = "line-height: 1.5;">
 Of course, you can. Even if you can't adjust your stand-up procedure as a team, you can still make it run more efficiently by following some simple rules.
 
-1. Every member of the team should be capable of running Stand-up<br></br>
+1. Every member of the team should be capable of running the stand-up<br></br>
 This rule is simple. Everyone on the team should be able to lead a stand-up. This reduces the stress on all the people involved and the lead can rotate in the team.<br></br>
 
 2. Stand-up should start at the same time every day<br></br>
