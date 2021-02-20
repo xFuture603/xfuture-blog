@@ -26,8 +26,18 @@ You start the session with ticket xyz. Person A has this ticket in progress or k
 Keep in mind that this is not a general solution and may not work as well for some teams as it does for others, because they may be working in a different field of IT, have customer contact or need to resolve incidents et cetera. When writing the example, I was primarily thinking of a software development team. Even if this does not apply to everyone, it could still be an approach to try something new.
 <br></br></p>
 
-
+##We cannot adjust our stand-up. Can I at least change something?
 <p style = "line-height: 1.5;">
+Of course you can. Even if you can't adjust your stand-up procedure as a team, you can still make it run more efficiently by following some simple rules.
+
+1. Every member of the team should be capable of running Stand-up<br></br>
+This rule is simple. Everyone on the team should be able to lead a stand-up. This reduces the stress on all the people involved and the lead can rotate in the team.<br></br>
+
+2. Stand-up should start at the same time every day<br></br>
+Why is this so important? Now imagine your stand-up starts at 10:00 a.m. Due to an extended meeting some team members are a few minutes later than expected. What happens during these minutes? Probably you will not use this time effectively because you have prepared for the stand-up 10:00 and are now only waiting for the missing colleagues.<br></br>
+
+3. Stand-up should not depend on every team member being present<br></br>
+This rule can also be followed very easily. The stand-up should not depend on every team member being present to gather all the important information. This should be documented in the corresponding tickets so that everyone can see the status even if the colleague is absent due to illness, for example.<br></br>
 <br></br></p>
 
 <p style = "line-height: 1.5;">
