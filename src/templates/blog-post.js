@@ -30,6 +30,7 @@ class BlogPostTemplate extends React.Component {
           <div className="blog-content" dangerouslySetInnerHTML={{ __html: post.html }} />
           <div className="mt-16 pt-8 social-content text-center border-t">
             <p className="font-light">Did you like this post? Spread the <span role="img" aria-label="love the post">❤️</span> with other fellows.</p>
+            <a href='https://ko-fi.com/W7W23XOH2' target='_blank' rel='noreferrer'><img height='10' style={{ border: "0px", height: "32px" }} src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
             <Social url={url} title={post.frontmatter.title} />
           </div>
 
