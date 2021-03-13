@@ -14,7 +14,7 @@ const Seo = props => {
 
     const title = postTitle ? `${postTitle} - ${config.shortSiteTitle}` : config.siteTitle;
     const description = postDescription ? postDescription : config.siteDescription;
-    const image = postCover ? postCover.childImageSharp.sizes.src : `${facebookCover}`;
+    const image = postCover ? postCover.childImageSharp.fluid.src : `${facebookCover}`;
     const url = config.siteUrl + config.pathPrefix + postSlug;
 
     return (
@@ -27,7 +27,7 @@ const Seo = props => {
             <title>{title}</title>
             <meta name="description" content={description} />
             <link rel="shortcut icon" href={favicon} />
-            
+
             <meta property="og:url" content={url} />
             <meta property="og:title" content={title} />
             <meta property="og:description" content={description} />
