@@ -55,8 +55,10 @@ export const pageQuery = graphql`
             title
             cover {
               childImageSharp{
-                sizes(maxWidth: 630) {
-                    ...GatsbyImageSharpSizes
+                fluid(maxWidth: 630) {
+                  base64
+                  src
+                  srcSet
                 }
               }
             }
