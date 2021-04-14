@@ -5,12 +5,12 @@ cover: "./3213167532153asd.jpg"
 author: Daniel Uhlmann
 ---
 
-##Have you ever had unused CSS rules in your files that only make your code more confusing? In this post, I will show you how to get rid of them using Purgecss!
+## Have you ever had unused CSS rules in your files that only make your code more confusing? In this post, I will show you how to get rid of them using Purgecss!
 
 <p style = "line-height: 1.5;">
 Some days ago a friend of mine just crawled through my git repositories and told me that I still have unused CSS rules in some files. Caused by the fact that I'm relatively lazy about such things, I decided to clean up my files with Purgecss.<br></br></p>
 
-##I want to do this in my own files! Please explain!<br></br>
+## I want to do this in my own files! Please explain!<br></br>
 
 So Purgecss is a tool to remove unused CSS properties. It can be easily implemented in your daily workflow. You can use this tool in a couple of ways:<br></br>
      - CLI<br></br>
@@ -19,7 +19,7 @@ So Purgecss is a tool to remove unused CSS properties. It can be easily implemen
      - Gulp<br></br>
      - Rollup<br></br>
 
-##Really man.. Enough „documentation like“ blah blah. Let's get your hands dirty!<br></br>
+## Really man.. Enough „documentation like“ blah blah. Let's get your hands dirty!<br></br>
 
 <p style = "line-height: 1.5;">
 Okay, okay! Don't lose yourself. So Purgecss is a NodeJS Application, that's why you need to have NodeJS installed. Once that's done, you can use:
@@ -54,7 +54,7 @@ purgecss --css style.css --content *.html
 Purgecss now will scan your CSS file named „style.css“. In this example, we want to analyze every HTML file with Purgecss.
 </p><br></br>
 
-##Wooha! That's quite a lot of output coming back!<br></br>
+## Wooha! That's quite a lot of output coming back!<br></br>
 
 <p style = "line-height: 1.5;">
 I know! And because nobody like such a confusing output in a tiny CLI window, we can modify our command. First, we have to create a folder to save the outcoming results. An obvious name for this job would be "results". So go in your project folder, create the results folder and customize your command with the following:
