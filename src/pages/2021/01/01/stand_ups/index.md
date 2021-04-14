@@ -7,7 +7,7 @@ author: Daniel Uhlmann
 
 So lately I thought about stand-ups and what bothers me about them. I found a few points that are in some ways not that optimal as I wish they would. This made me look for opportunities to optimize the process in some situations. Furthermore, if you as a reader are already doing stand-ups with your team then please always remember that bad stand-ups are better than none at all.
 
-##What most people are used to and why it can be suboptimal
+## What most people are used to and why it can be suboptimal
 
 <p style = "line-height: 1.5;">
 The most common way to run the stand-up is the "yesterday - today - blockers" model. So in other words: what did I do yesterday. What will I do today? Is there possibly something that blocks my progress with the work I have to finish. Individually, this doesn't look so bad at first glance. But stand-ups are team events for me. To give you a better understanding of what I am trying to describe here, compare the "yesterday - today - blockers" model with the example below.
@@ -17,7 +17,7 @@ Example: You are in a workshop or business meeting where everyone in the group i
 I think the same thing happens in a lot of stand-ups. Everyone wants to tell a good story and make a good impression. This distracts you and you don't listen to others even if it might be important.
 <br></br></p>
 
-##Sounds logical but is there another way?
+## Sounds logical but is there another way?
 <p style = "line-height: 1.5;">
 Definitely, there are other ways to execute a stand-up. The easiest way would be to simply talk about tickets. But this assumes that you have a certain structure, like a Kanban board, and that there is a ticket for each task. But assuming your team fulfills these requirements. For example, it could look like this:
 
@@ -26,7 +26,7 @@ You start the session with ticket xyz. Person A has this ticket in progress or k
 Keep in mind that this is not a general solution and may not work as well for some teams as it does for others, because they may be working in a different field of IT, have customer contact, or need to resolve incidents et cetera. When writing the example, I was primarily thinking of a software development team. Even if this does not apply to everyone, it could still be an approach to try something new.
 <br></br></p>
 
-##We cannot adjust our stand-up. Can I at least change something?
+## We cannot adjust our stand-up. Can I at least change something?
 <p style = "line-height: 1.5;">
 Of course, you can. Even if you can't adjust your stand-up procedure as a team, you can still make it run more efficiently by following some simple rules.
 
@@ -40,7 +40,7 @@ Why is this so important? Now imagine your stand-up starts at 10:00 a.m. Due to 
 This rule can also be followed very easily. The stand-up should not depend on every team member being present to gather all the important information. This should be documented in the corresponding tickets so that everyone can see the status even if the colleague is absent due to illness, for example.<br></br>
 <br></br></p>
 
-##Conclusion
+## Conclusion
 <p style = "line-height: 1.5;">
 Even though these are just some of the things you can do to optimize a stand-up, they can still help you to find a start for it. I am aware that there are areas in IT where the "Walking the Board" model is not so practical. However, I think it is a good way to take the pressure off the individuals and focus more on the work itself.
 <br></br></p>
