@@ -8,25 +8,25 @@ author: Daniel Uhlmann
 Foreword: Before you invest your time to read this article (thanks in advance) I want to clarify that this is not an article related to those "x daily habits successful people have". Moreover, this article is related to thoughts and facts on why it can have a positive impact on you to work/spend time with goal-oriented people.
 
 
-##Why I come up with such a topic
+## Why I come up with such a topic
 
 <p style = "line-height: 1.5;">
 Not so long ago I've read an article about people who radically cleaned their surroundings of pessimistic people. The reason for this action was their attitude, namely that you are only as successful or positive minded as the people you have to deal with every day. This post has raised my interest and so I've started to think a bit about this topic for myself.
 <br></br></p>
 
-##"You are only as successful as those you frequently associate with."
+## "You are only as successful as those you frequently associate with."
 
 <p style = "line-height: 1.5;">
 So successful people are always on the hunt for individuals who are goal-oriented, enthusiastic, optimistic and who have an overall positive mental outlook. So that means that some people made a habit out of associating with other success-minded individuals. And on the flip side, they also make a point to limit their exposure to negative and toxic people. So for successful people, it's important to kinda replace negative friends and search out for positive individuals because they are very positive on their own and they want to get the same thing back for themselves.
 <br></br></p>
 
-##So we emulate the people we associate with?
+## So we emulate the people we associate with?
 
 <p style = "line-height: 1.5;">
 They say that you are the average of the 5 people you spend the most time with. But is this true? When it comes down to relationships, we are highly influenced by those closest to us. This affects our way of thinking, our self-esteem, and our general decisions. And you know what? I can relate to this statement. Surely we are our own person in many ways, but we're more affected by our environment than we think. A great example for me is that you often use the same phrases or noticeable words like your close friends. Even your behavior in your daily routine may be affected by this.
 <br></br></p>
 
-##I cannot yet gain any real benefit from this
+## I cannot yet gain any real benefit from this
 <p style = "line-height: 1.5;">
 Well if you still have no clue why this might be important for you don't worry. Goal-oriented people have certain approaches to different tasks from which you can benefit greatly. Of course, it is often a subjective opinion on which person you consider to be goal-oriented. But if you think about it and take a goal-oriented person from your circle I'm sure you'll agree with some of the points I'm about to share.
 
@@ -46,7 +46,7 @@ Imagine a meeting with a retrospective of the last week as the topic. Sometimes 
 This is one of the most important points for me personally because I have been able to learn a lot from this quality. These people maintain an active feedback culture in a several ways. It can be a comment on your recently opened pull request or some feedback during a meeting. Whatever form this constructive criticism may have, it will always help to improve yourself.<br></br>
 <br></br></p>
 
-##Alright I think I've got your point
+## Alright I think I've got your point
 
 <p style = "line-height: 1.5;">
 That's nice. Even if these are not fixed standards in any way it can help you to pay attention to what goal-oriented people do differently from yourself. And yes I advise you to do this even if you already think that you work goal-oriented because goal-oriented people never stop learning and are always open to new things!
