@@ -18,16 +18,16 @@ Now and then when you mention pair programming to colleagues they possibly begin
 
 #### Prevent the typical knowledge silos
 
-Ah, this is a perfect topic. You know life happens - so if someone is ill, takes a vacation, or leaves the team, it leaves the other colleagues on the team with a large knowledge gap behind. Nobody can know everything in a world where things changing so fast but it's important to understand how the other parts of your project work together. If you know this then it is easier for you to see how your work affects the big picture.
+Ah, this is a perfect topic. You know life happens - so if someone is ill, takes a vacation, or leaves the team, it leaves the other colleagues on the team with a large knowledge gap behind. Nobody can know everything in a world where things change so fast but it's important to understand how the other parts of your project work together. If you know this then it is easier for you to see how your work affects the big picture.
 
 #### Strengthen the relations with your colleagues
 
-With the pandemic and also in IT in general, many people working remotely. When you work singularly on projects, it can be easy to isolate yourself from your colleagues. Pair programming can help you to get involved with other members of your team, helping to build better relationships with one another while coding.
+With the pandemic and also in IT in general, many people work remotely. When you work singularly on projects, it can be easy to isolate yourself from your colleagues. Pair programming can help you to get involved with other members of your team, helping to build better relationships with one another while coding.
 
 #### Clearly expand your knowledge
 
 “The more you know, the more you know you don't know.” - Aristotle. There is so much to know in this industry that it is nearly impossible to know everything. We never stop learning new things.
-And the potential to learn new things is particularly high when you specifically exchange ideas with other people about a specific topic. In my opinion, two minds are better than one. Multiple sets of eyes give more opportunities to spot errors, bugs, refactoring opportunities, or missteps during the process. It's always helpful to have a second opinion.
+And the potential to learn new things is particularly high when you exchange ideas with other people about a specific topic. In my opinion, two minds are better than one. Multiple sets of eyes give more opportunities to spot errors, bugs, refactoring opportunities, or missteps during the process. It's always helpful to have a second opinion.
 <br></br></p>
 
 <p style = "line-height: 1.5;">
@@ -36,13 +36,13 @@ And the potential to learn new things is particularly high when you specifically
 
 Of course, there are. Let's briefly look at those points together and then try to break down how we can solve them.
 
-The first question you can ask yourself, of course, is why don't we want to share? And this is also more of a personal question because, for example, we don't want others to break our work which we've already finished. Another problem for some people is that they don't want others to change it. Because then it can feel like it is no longer their work.
+The first question you can ask yourself, of course, is why don't we want to share? And this is also more of a personal question. For example, we don't want others to break our work which we've already finished. Another problem for some people is that they don't want others to change it. Because then it can feel like it is no longer their work.
 
 *How can this be applied to the developer world?*
 
 Well sometimes, code is treated by developers like their most treasured property.
 
-In addition to the above, there are other reasons why we might find it difficult to share our code. You know - if someone is looking at our source code while we creating, we feel vulnerable. Or if someone already makes changes to the code before we could even explain the logic. This can also cause certain feelings (mostly anger, sadness, panic). So you see... there are plenty of reasons why we might decide against pair programming.
+In addition to the above, there are other reasons why we might find it difficult to share our code. You know - if someone is looking at our source code while we are creating, we feel vulnerable. Or if someone already makes changes to the code before we could even explain the logic. This can also cause certain feelings (mostly anger, sadness, panic). So you see... there are plenty of reasons why we might decide against pair programming.
 
 ### Overcome the bad feelings
 
